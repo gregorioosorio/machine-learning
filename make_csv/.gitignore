@@ -1,0 +1,20 @@
+# Ignore virtual environment directories
+.venv/
+venv/
+env/
+*.pyc
+
+# Ignore local development settings
+*.env
+
+# Ignore IDE and text editor files
+.vscode/
+*.swp
+*.swo
+*.swn
+__pycache__/
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
